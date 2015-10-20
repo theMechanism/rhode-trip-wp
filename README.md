@@ -1,1 +1,3 @@
-# rhode-trip-wp
+# Rhode Trip Wordpress Build
+
+[The Mechanism](http://www.themechanism.com/) 
